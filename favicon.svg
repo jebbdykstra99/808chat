@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="808chat">
+  <rect width="32" height="32" rx="7" fill="#0b3d4a"/>
+  <!-- simple hibiscus -->
+  <circle cx="16" cy="12.2" r="2.1" fill="#2c1810"/>
+  <g fill="#d45d6c">
+    <ellipse cx="16" cy="7.4" rx="2.4" ry="3.4"/>
+    <ellipse cx="20.6" cy="10.2" rx="2.4" ry="3.4" transform="rotate(72 20.6 10.2)"/>
+    <ellipse cx="18.8" cy="15.6" rx="2.4" ry="3.4" transform="rotate(144 18.8 15.6)"/>
+    <ellipse cx="13.2" cy="15.6" rx="2.4" ry="3.4" transform="rotate(216 13.2 15.6)"/>
+    <ellipse cx="11.4" cy="10.2" rx="2.4" ry="3.4" transform="rotate(288 11.4 10.2)"/>
+  </g>
+  <circle cx="16" cy="12.2" r="1.35" fill="#e8a0b0"/>
+  <!-- wave -->
+  <path d="M4 23.2 Q8 20.6 12 23.2 T20 23.2 T28 23.2" fill="none" stroke="#e7f3f4" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M4 26.4 Q8 24.2 12 26.4 T20 26.4 T28 26.4" fill="none" stroke="#d45d6c" stroke-width="1.2" stroke-linecap="round" opacity="0.85"/>
+</svg>
