@@ -1,0 +1,426 @@
+{
+  "siteId": "808chat",
+  "name": "808chat",
+  "tagline": "All things Hawaii.",
+  "composePlaceholder": "What's happening in the 808?",
+  "emptyState": "This room is empty. Sign in with email to post the first take about the islands. Guest can browse only.",
+  "theme": {
+    "bg": "#e7f3f4",
+    "surface": "#f7fbfb",
+    "nav-bg": "#0b3d4a",
+    "nav-text": "#8fb8c0",
+    "nav-hover": "#d5eef0",
+    "nav-active": "#f7fbfb",
+    "text": "#123038",
+    "text-muted": "#3d5a62",
+    "text-light": "#6a868c",
+    "accent": "#d45d6c",
+    "accent-dark": "#b84a58",
+    "teal": "#1a6b78",
+    "silver": "#b7cdd0",
+    "border": "#c5d9dc",
+    "avatarColors": [
+      "#0b3d4a",
+      "#d45d6c",
+      "#1a6b78",
+      "#2c1810",
+      "#b84a58",
+      "#3d7a86"
+    ],
+    "lava": "#2c1810",
+    "plumeria": "#e8a0b0"
+  },
+  "trends": [
+    {
+      "tag": "3 days",
+      "headline": "Oahu Long Weekend",
+      "snippet": "Waikiki dawn, Lanikai lookout, plate lunch, one unhurried snorkel.",
+      "meta": "Oahu · dummy package, not bookable"
+    },
+    {
+      "tag": "5 days",
+      "headline": "Oahu & the North Shore",
+      "snippet": "Trade-wind mornings, shrimp trucks, sunset sail, winter swell from the sand.",
+      "meta": "Oahu · dummy package, not bookable"
+    },
+    {
+      "tag": "7 days",
+      "headline": "Two-Island: Oahu + Maui",
+      "snippet": "Waikiki dawn, then Maui — Road to Hana as one full day, not rushed.",
+      "meta": "Oahu + Maui · dummy package, not bookable"
+    },
+    {
+      "tag": "10 days",
+      "headline": "Three-Island: Oahu, Maui, Big Island",
+      "snippet": "Volcano sunrise, night manta (dummy), Kona coffee morning, unhurried Hana.",
+      "meta": "Oahu + Maui + Hawaiʻi (Big Island) · dummy package, not bookable"
+    },
+    {
+      "tag": "14 days",
+      "headline": "Grand Tour — add Kauaʻi",
+      "snippet": "Four islands, slow. Waimea Canyon and a Nāpali lookout — not a fake boat we cannot run.",
+      "meta": "Oahu + Maui + Hawaiʻi + Kauaʻi · dummy package, not bookable"
+    }
+  ],
+  "places": [
+    {
+      "tag": "Oahu",
+      "title": "Lanikai",
+      "snippet": "Dawn lookout, kayak calm if the ocean says yes. Park with care."
+    },
+    {
+      "tag": "Oahu",
+      "title": "North Shore",
+      "snippet": "Winter swell from the sand. Shrimp trucks. Respect the water."
+    },
+    {
+      "tag": "Oahu",
+      "title": "Waikiki",
+      "snippet": "Dawn walk before the sidewalk. Mid-century lanai energy, not tacky neon."
+    },
+    {
+      "tag": "Maui",
+      "title": "Road to Hana",
+      "snippet": "One full day. Waterfalls from the pullouts. Not a race."
+    },
+    {
+      "tag": "Maui",
+      "title": "Molokini",
+      "snippet": "Snorkel chatter only — dummy, conditions and permits decide."
+    },
+    {
+      "tag": "Hawaiʻi",
+      "title": "Volcano",
+      "snippet": "Sunrise from a public lookout. Stay on marked paths. Mālama ʻāina."
+    },
+    {
+      "tag": "Hawaiʻi",
+      "title": "Waipiʻo",
+      "snippet": "Valley lookout. Do not drive down unless you know the road."
+    },
+    {
+      "tag": "Kauaʻi",
+      "title": "Waimea Canyon",
+      "snippet": "Red earth lookout. Nāpali from land, not a fake boat."
+    }
+  ],
+  "topics": [
+    {
+      "tag": "Food",
+      "title": "Plate lunch",
+      "snippet": "Two scoop rice, mac salad, something that tastes like home."
+    },
+    {
+      "tag": "Food",
+      "title": "Poke",
+      "snippet": "Neighborhood counter, not a mall kiosk. Ask what came in today."
+    },
+    {
+      "tag": "Food",
+      "title": "Shave ice",
+      "snippet": "Ice so fine it disappears. Li hing on the side if you want it."
+    },
+    {
+      "tag": "Ocean",
+      "title": "Trade winds",
+      "snippet": "The islands breathing. Palms lean. Laundry dries by noon."
+    },
+    {
+      "tag": "Ocean",
+      "title": "Winter swell",
+      "snippet": "North Shore watching, not entering. Dummy swell talk only."
+    },
+    {
+      "tag": "Culture",
+      "title": "Hula",
+      "snippet": "Morning practice, not a stage show. Listen first."
+    },
+    {
+      "tag": "Culture",
+      "title": "Aloha Friday",
+      "snippet": "Light shirts, slower emails, still showing up for each other."
+    },
+    {
+      "tag": "Land",
+      "title": "Kona coffee",
+      "snippet": "Small mill mornings. Slope, rain, and patience."
+    }
+  ],
+  "seedNote": "sample — not mixed into the live feed",
+  "seed": [
+    {
+      "id": "p1",
+      "name": "Trade Wind",
+      "handle": "tradwind",
+      "text": "Trade winds came in just after breakfast. Palms leaning toward Kauaʻi, laundry dry by noon. This is the 808 breathing. Dummy weather — not a forecast.",
+      "hours": 1,
+      "likes": 312,
+      "replies": 41,
+      "followed": true,
+      "snippet": {
+        "handle": "alohafriday",
+        "text": "Aloha Friday and the trades showed up on time."
+      }
+    },
+    {
+      "id": "p2",
+      "name": "Plate Lunch",
+      "handle": "platelunch",
+      "text": "Two scoop rice, mac salad, and the katsu that tastes like a Tuesday in Kalihi. Dummy plate. Not a reservation. Sit down. Eat slow.",
+      "hours": 2,
+      "likes": 428,
+      "replies": 67,
+      "followed": true
+    },
+    {
+      "id": "p3",
+      "name": "North Shore 808",
+      "handle": "northshore808",
+      "text": "Winter swell is standing up on the North Shore. Watch from the sand. Do not paddle out to prove a point. Dummy swell talk — not a buoy feed.",
+      "hours": 3,
+      "likes": 501,
+      "replies": 88,
+      "followed": true,
+      "snippet": {
+        "handle": "tradwind",
+        "text": "Trades are side-shore. Stay on the beach."
+      }
+    },
+    {
+      "id": "p4",
+      "name": "Kona AM",
+      "handle": "konaam",
+      "text": "Kona coffee at first light. Small mill, slope rain last night, the roast smells like a wood porch. Dummy farm morning. Not a tasting-room circus.",
+      "hours": 4,
+      "likes": 219,
+      "replies": 28,
+      "followed": true
+    },
+    {
+      "id": "p5",
+      "name": "Waimea Look",
+      "handle": "waimeacanyon",
+      "text": "Waimea Canyon went red-gold after the shower passed. Lookout only. No drone. Dummy Kauaʻi. Nāpali is a land lookout this week, not a fake boat.",
+      "hours": 5,
+      "likes": 276,
+      "replies": 33,
+      "followed": false
+    },
+    {
+      "id": "p6",
+      "name": "Paliku Quiet",
+      "handle": "paliku",
+      "text": "Paliku-side quiet. Marked trail, pack out what you pack in. Mālama ʻāina is not a slogan if you leave a wrapper. Dummy hike note.",
+      "hours": 6,
+      "likes": 164,
+      "replies": 19,
+      "followed": true
+    },
+    {
+      "id": "p7",
+      "name": "Poke Counter",
+      "handle": "poke808",
+      "text": "Poke from the neighborhood counter. Ask what came in today. Dummy bowl. Not a mall kiosk. Shoyu, limu, a little heat.",
+      "hours": 7,
+      "likes": 355,
+      "replies": 52,
+      "followed": true,
+      "snippet": {
+        "handle": "platelunch",
+        "text": "Poke first, plate lunch after. That is the order."
+      }
+    },
+    {
+      "id": "p8",
+      "name": "Hula Morning",
+      "handle": "hulamorning",
+      "text": "Hula practice in the park before the heat. Listen first. Dummy culture post — not a ticketed show, not a luau flyer.",
+      "hours": 8,
+      "likes": 198,
+      "replies": 24,
+      "followed": true
+    },
+    {
+      "id": "p9",
+      "name": "Volcano Dawn",
+      "handle": "volcanodawn",
+      "text": "Volcano sunrise from a public lookout. Steam, cold hands, stay on the path. Dummy timing. Not a guided live book. The mountain does not owe us a show.",
+      "hours": 9,
+      "likes": 441,
+      "replies": 61,
+      "followed": true
+    },
+    {
+      "id": "p10",
+      "name": "Molokini Note",
+      "handle": "molokinisnork",
+      "text": "Snorkeling Molokini is a conditions conversation, not a guarantee. Dummy excursion. Ocean decides. If it is a no, the south shore still has pockets.",
+      "hours": 11,
+      "likes": 187,
+      "replies": 22,
+      "followed": false
+    },
+    {
+      "id": "p11",
+      "name": "Shave Ice 808",
+      "handle": "shaveice808",
+      "text": "Shave ice so fine it disappears. Li hing on the side. Dummy stand. Not a brand. Sit in the shade and let the afternoon do its job.",
+      "hours": 13,
+      "likes": 263,
+      "replies": 31,
+      "followed": true
+    },
+    {
+      "id": "p12",
+      "name": "Aloha Friday",
+      "handle": "alohafriday",
+      "text": "Aloha Friday. Light shirts, slower emails, still showing up for each other. Dummy calendar. The islands do not close; they just exhale.",
+      "hours": 15,
+      "likes": 329,
+      "replies": 44,
+      "followed": true
+    },
+    {
+      "id": "p13",
+      "name": "Lanikai Dawn",
+      "handle": "lanikaidawn",
+      "text": "Lanikai at dawn. Two little islands sitting in the blue like they were always going to. Park with care. Dummy lookout — not a drone pad.",
+      "hours": 16,
+      "likes": 388,
+      "replies": 49,
+      "followed": true,
+      "snippet": {
+        "handle": "tradwind",
+        "text": "Trades were kind this morning. Water looked like glass for ten minutes."
+      }
+    },
+    {
+      "id": "p14",
+      "name": "Hana Highway",
+      "handle": "hanahighway",
+      "text": "Road to Hana is one day, not a race. Waterfalls from the pullouts. Let the car behind you pass. Dummy Maui. Leaves on the road on purpose.",
+      "hours": 18,
+      "likes": 412,
+      "replies": 57,
+      "followed": false
+    },
+    {
+      "id": "p15",
+      "name": "Waipiʻo Look",
+      "handle": "waipiovalley",
+      "text": "Waipiʻo from the lookout. Do not drive down unless you know the road and the rain. Dummy valley. The taro patches are not a backdrop.",
+      "hours": 20,
+      "likes": 151,
+      "replies": 17,
+      "followed": true
+    },
+    {
+      "id": "p16",
+      "name": "Ukulele PM",
+      "handle": "ukulelepm",
+      "text": "Someone on the lanai playing slow. Trade winds carrying it two houses down. Dummy evening. Wonderful, not tacky. This is the 808.",
+      "hours": 22,
+      "likes": 94,
+      "replies": 11,
+      "followed": false
+    },
+    {
+      "id": "p17",
+      "name": "Mālama Note",
+      "handle": "malamaaina",
+      "text": "Mālama ʻāina is the small stuff: reef-safe if you go in, stay on the trail, do not stack rocks for a photo. Dummy reminder. The islands are not a set.",
+      "hours": 24,
+      "likes": 277,
+      "replies": 38,
+      "followed": true
+    },
+    {
+      "id": "p18",
+      "name": "Kaimuki Table",
+      "handle": "kaimukitable",
+      "text": "Plate lunch in Kaimuki, extra gravy, no photos of other people's kids. Dummy neighborhood. Eat like you live here for an hour.",
+      "hours": 26,
+      "likes": 133,
+      "replies": 16,
+      "followed": true,
+      "snippet": {
+        "handle": "platelunch",
+        "text": "Kaimuki still does it right. Two scoop. Sit down."
+      }
+    },
+    {
+      "id": "p19",
+      "name": "Dawn Patrol 808",
+      "handle": "dawnpatrol808",
+      "text": "Waikiki dawn before the sidewalk wakes up. Joggers, a fisherman, the ocean doing the same thing it did yesterday. Dummy morning. Come back.",
+      "hours": 28,
+      "likes": 208,
+      "replies": 27,
+      "followed": false
+    },
+    {
+      "id": "p20",
+      "name": "Coffee Slope",
+      "handle": "coffeeslope",
+      "text": "Above Kona the clouds snag on the slope and the coffee trees look like they are listening. Dummy farm. Not a plantation brand. Patience in a cup.",
+      "hours": 30,
+      "likes": 121,
+      "replies": 14,
+      "followed": true
+    }
+  ],
+  "notifs": [
+    {
+      "id": "n1",
+      "text": "@platelunch liked your take on the Kaimuki two-scoop.",
+      "time": "1h",
+      "unread": true
+    },
+    {
+      "id": "n2",
+      "text": "@northshore808 mentioned you in a winter swell watch.",
+      "time": "3h",
+      "unread": true
+    },
+    {
+      "id": "n3",
+      "text": "@lanikaidawn started following you. Dummy follow.",
+      "time": "Yesterday",
+      "unread": true
+    }
+  ],
+  "threads": [
+    {
+      "id": "t1",
+      "name": "Plate Lunch",
+      "handle": "platelunch",
+      "preview": "Kaimuki or Kalihi for the katsu?",
+      "messages": [
+        {
+          "me": false,
+          "text": "Kaimuki or Kalihi for the katsu?"
+        },
+        {
+          "me": true,
+          "text": "Kaimuki today. Sit down. Dummy plate, still the right call."
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "Trade Wind",
+      "handle": "tradwind",
+      "preview": "Trades are in. Lanai laundry is done.",
+      "messages": [
+        {
+          "me": false,
+          "text": "Trades are in. Lanai laundry is done."
+        },
+        {
+          "me": true,
+          "text": "Palms leaning. Dummy weather. This is the 808 breathing."
+        }
+      ]
+    }
+  ]
+}
