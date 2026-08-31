@@ -423,5 +423,25 @@
         }
       ]
     }
-  ]
+  ],
+  "rail": {
+    "kind": "nws-forecast",
+    "title": "Room Brief",
+    "kicker": "In the 808",
+    "meta": "Live · Oahu",
+    "footer": "Official NWS Honolulu forecast. Not a news ingest.",
+    "lat": 21.3069,
+    "lon": -157.8583,
+    "forecastUrl": "https://api.weather.gov/gridpoints/HFO/154,145/forecast",
+    "forecastPage": "https://forecast.weather.gov/MapClick.php?lat=21.3069&lon=-157.8583",
+    "zone": "HIZ033",
+    "userAgent": "808chat.com/rail (jebb@subx.it)",
+    "porch": {
+      "prompt": "Trade or Kona?",
+      "options": [
+        "Trade",
+        "Kona"
+      ]
+    }
+  }
 }
