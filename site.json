@@ -2,9 +2,9 @@
   "siteId": "808chat",
   "redditSr": "808chat",
   "name": "808chat",
-  "tagline": "All things Hawaii.",
+  "tagline": "All things Hawaii. Local, not brochure.",
   "composePlaceholder": "What's happening in the 808?",
-  "emptyState": "This room is empty. Sign in with email to post the first take about the islands. Guest can browse only.",
+  "emptyState": "This room is empty. Sign in with email to talk story about the islands. Guest can browse only. Local, not brochure. Not a vacation planner.",
   "theme": {
     "bg": "#e7f3f4",
     "surface": "#f7fbfb",
@@ -65,86 +65,66 @@
   ],
   "places": [
     {
-      "tag": "Oahu",
-      "title": "Lanikai",
-      "snippet": "Dawn lookout, kayak calm if the ocean says yes. Park with care."
+      "tag": "Hub",
+      "title": "Oʻahu hub",
+      "snippet": "Traffic, town, windward vs leeward, the stuff that actually hits your week. Not a Waikīkī brochure."
     },
     {
-      "tag": "Oahu",
-      "title": "North Shore",
-      "snippet": "Winter swell from the sand. Shrimp trucks. Respect the water."
+      "tag": "Hub",
+      "title": "Maui hub",
+      "snippet": "Valley Isle talk — work, water, roads, what’s real on your side. Skip the resort map."
     },
     {
-      "tag": "Oahu",
-      "title": "Waikiki",
-      "snippet": "Dawn walk before the sidewalk. Mid-century lanai energy, not tacky neon."
+      "tag": "Hub",
+      "title": "Kauaʻi hub",
+      "snippet": "Garden Isle seat for people who live the weather and the roads, not the postcard."
     },
     {
-      "tag": "Maui",
-      "title": "Road to Hana",
-      "snippet": "One full day. Waterfalls from the pullouts. Not a race."
+      "tag": "Hub",
+      "title": "Big Island hub",
+      "snippet": "Hilo to Kona isn’t one island in practice. Windward wet, leeward dry, volcano country when it’s the story."
     },
     {
-      "tag": "Maui",
-      "title": "Molokini",
-      "snippet": "Snorkel chatter only — dummy, conditions and permits decide."
+      "tag": "Ocean",
+      "title": "Breaks",
+      "snippet": "Swell, wind, which side is working. NWS marine when we post. Not a surf-camp pitch."
     },
     {
-      "tag": "Hawaiʻi",
-      "title": "Volcano",
-      "snippet": "Sunrise from a public lookout. Stay on marked paths. Mālama ʻāina."
-    },
-    {
-      "tag": "Hawaiʻi",
-      "title": "Waipiʻo",
-      "snippet": "Valley lookout. Do not drive down unless you know the road."
-    },
-    {
-      "tag": "Kauaʻi",
-      "title": "Waimea Canyon",
-      "snippet": "Red earth lookout. Nāpali from land, not a fake boat."
+      "tag": "Local",
+      "title": "Talk story",
+      "snippet": "Food, music, schools, work, sports, the uncle takes. Pull up a chair."
     }
   ],
   "topics": [
     {
       "tag": "Food",
       "title": "Plate lunch",
-      "snippet": "Two scoop rice, mac salad, something that tastes like home."
+      "snippet": "Local plate talk — not a tourist checklist."
     },
     {
       "tag": "Food",
       "title": "Poke",
-      "snippet": "Neighborhood counter, not a mall kiosk. Ask what came in today."
-    },
-    {
-      "tag": "Food",
-      "title": "Shave ice",
-      "snippet": "Ice so fine it disappears. Li hing on the side if you want it."
+      "snippet": "Where you’d actually send a cousin."
     },
     {
       "tag": "Ocean",
       "title": "Trade winds",
-      "snippet": "The islands breathing. Palms lean. Laundry dries by noon."
+      "snippet": "When the trades rattle the windows — NWS HFO when we brief."
     },
     {
       "tag": "Ocean",
       "title": "Winter swell",
-      "snippet": "North Shore watching, not entering. Dummy swell talk only."
-    },
-    {
-      "tag": "Culture",
-      "title": "Hula",
-      "snippet": "Morning practice, not a stage show. Listen first."
+      "snippet": "North shore talk when there’s something real to say."
     },
     {
       "tag": "Culture",
       "title": "Aloha Friday",
-      "snippet": "Light shirts, slower emails, still showing up for each other."
+      "snippet": "Work week close, island style."
     },
     {
-      "tag": "Land",
-      "title": "Kona coffee",
-      "snippet": "Small mill mornings. Slope, rain, and patience."
+      "tag": "Trust",
+      "title": "Local, not brochure",
+      "snippet": "Not a booking engine. Not a package board. Not a must-do carousel."
     }
   ],
   "stories": {
@@ -432,9 +412,9 @@
   "rail": {
     "kind": "nws-forecast",
     "title": "Room Brief",
-    "kicker": "In the 808",
+    "kicker": "Local Hawaii talk. Not a brochure.",
     "meta": "Live · Oahu",
-    "footer": "Official NWS Honolulu forecast. Not a news ingest.",
+    "footer": "Official NWS Honolulu forecast. Not a news ingest. Local, not brochure.",
     "lat": 21.3069,
     "lon": -157.8583,
     "forecastUrl": "https://api.weather.gov/gridpoints/HFO/154,145/forecast",
@@ -448,6 +428,11 @@
         "Kona"
       ],
       "dwellMs": 9000
+    },
+    "overlay": {
+      "enabled": true,
+      "ms": 7000,
+      "headline": "Trades, breezy — NWS HFO"
     }
   }
 }
