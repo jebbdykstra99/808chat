@@ -4,25 +4,25 @@
   <meta charset="UTF-8">
     <meta name="robots" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>808chat — All things Hawaii.</title>
-  <meta name="description" content="808chat is all things Hawaii — trade winds, plate lunch, North Shore swell, Kona coffee, hula. Dummy packages, not a booking engine. Not X.com.">
+  <title>808chat — All things Hawaii. Local, not brochure.</title>
+  <meta name="description" content="A Hawaii room for locals and people with skin in the islands — weather from NWS Honolulu, island seats, breaks, talk story. Not a vacation planner. Not a booking engine. Preview.">
   <link rel="canonical" href="https://808chat.com/">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://808chat.com/">
-  <meta property="og:title" content="808chat — All things Hawaii.">
-  <meta property="og:description" content="Feed-first Hawaii chat plus dummy vacation packages. Wonderful, not tacky. Area code 808.">
+  <meta property="og:title" content="808chat — All things Hawaii. Local, not brochure.">
+  <meta property="og:description" content="Talk story about real island life. NWS Honolulu Room Briefs. No packages, no itinerary chrome.">
   <meta property="og:image" content="https://808chat.com/og.png">
   <meta name="twitter:image" content="https://808chat.com/og.png">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="808chat — All things Hawaii.">
-  <meta name="twitter:description" content="Feed-first Hawaii chat plus dummy vacation packages. Wonderful, not tacky. Area code 808.">
+  <meta name="twitter:title" content="808chat — All things Hawaii. Local, not brochure.">
+  <meta name="twitter:description" content="Talk story about real island life. NWS Honolulu Room Briefs. No packages, no itinerary chrome.">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css?v=13">
-  <link rel="preload" href="site.json?v=2" as="fetch" crossorigin="anonymous">
+  <link rel="preload" href="site.json?v=3" as="fetch" crossorigin="anonymous">
 </head>
 <body>
 <div class="preview-banner" role="status">Preview only. Accounts are not open.</div>
@@ -57,7 +57,7 @@
       </svg>
     </a>
     <div class="brand-title">808chat</div>
-    <div class="brand-sub">All things Hawaii.</div>
+    <div class="brand-sub">All things Hawaii. Local, not brochure.</div>
   </div>
 
   <div class="sidebar-rule"></div>
@@ -120,7 +120,9 @@
       <span>&middot;</span>
       <a href="privacy.html">Privacy</a>
       <span>&middot;</span>
-      <span>Preview</span>
+      <a href="about.html">About</a>
+      <span>&middot;</span>
+      <span>Local, not brochure</span>
     </div>
   </nav>
 </aside>
@@ -190,7 +192,7 @@
   <section class="page" id="page-news">
     <div class="page-header">
       <div class="page-kicker">Suggested itineraries</div>
-      <h1>Vacation packages</h1>
+      <h1>Room Brief</h1>
       <div class="page-rule"></div>
     </div>
     <div class="page-body news-page-list" id="news-page-list"></div>
@@ -209,7 +211,7 @@
   </div>
   <div class="profile-signin-prompt" id="profile-signin-prompt">
     <h2>See your 808 profile</h2>
-    <p>Sign in with email to set a handle and post about Hawaii. Guest is browse-only. Dummy packages, not a booking engine.</p>
+    <p>Sign in with email to set a handle and talk story. Guest is browse-only. Local, not brochure.</p>
     <button class="accent-btn" id="profile-signin-prompt-btn" type="button">Sign in</button>
   </div>
   <div class="profile-content" id="profile-content" hidden>
@@ -289,7 +291,7 @@
   <div class="explore-search-wrap">
     <div class="explore-search-bar">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input type="text" class="explore-search-input" id="explore-search-input" placeholder="Search islands, poke, swell, packages…" autocomplete="off">
+      <input type="text" class="explore-search-input" id="explore-search-input" placeholder="Search islands, hubs, breaks, talk story…" autocomplete="off">
     </div>
   </div>
   <div class="explore-tabs thoughts-tabs">
@@ -303,7 +305,7 @@
 <!-- ── Right rail ───────────────────────────────────── -->
 <aside class="right-panel" id="right-panel">
   <div class="right-panel-header">
-    <div class="right-panel-kicker">This week’s packages</div>
+    <div class="right-panel-kicker">Local Hawaii talk. Not a brochure.</div>
     <div class="right-panel-title">Room Brief</div>
   </div>
   <div class="right-panel-body" id="news-feed"></div>
@@ -360,7 +362,7 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-storage-compat.js"></script>
-  <script src="factory.js?v=27" data-site="site.json?v=2"></script>
+  <script src="factory.js?v=27" data-site="site.json?v=3"></script>
   <script type="module" src="https://cdn.jsdelivr.net/npm/emoji-picker-element@1/index.js"></script>
 </body>
 </html>
