@@ -33,34 +33,35 @@
   },
   "trends": [
     {
-      "tag": "3 days",
-      "headline": "Oahu Long Weekend",
-      "snippet": "Waikiki dawn, Lanikai lookout, plate lunch, one unhurried snorkel.",
-      "meta": "Oahu · dummy package, not bookable"
+      "tag": "FACT",
+      "headline": "NWS Honolulu",
+      "snippet": "Weather and marine from the official desk — not vibes dressed as fact.",
+      "meta": "weather.gov · outbound",
+      "href": "https://www.weather.gov/hfo/"
     },
     {
-      "tag": "5 days",
-      "headline": "Oahu & the North Shore",
-      "snippet": "Trade-wind mornings, shrimp trucks, sunset sail, winter swell from the sand.",
-      "meta": "Oahu · dummy package, not bookable"
+      "tag": "Local",
+      "headline": "Trades vs Kona",
+      "snippet": "When the wind flips your week — talk what’s true on your side of the island.",
+      "meta": "Talk story"
     },
     {
-      "tag": "7 days",
-      "headline": "Two-Island: Oahu + Maui",
-      "snippet": "Waikiki dawn, then Maui — Road to Hana as one full day, not rushed.",
-      "meta": "Oahu + Maui · dummy package, not bookable"
+      "tag": "Ocean",
+      "headline": "Breaks, not camps",
+      "snippet": "Swell and which side is working — steward notes lean NWS marine. Not a surf-camp pitch.",
+      "meta": "Breaks"
     },
     {
-      "tag": "10 days",
-      "headline": "Three-Island: Oahu, Maui, Big Island",
-      "snippet": "Volcano sunrise, night manta (dummy), Kona coffee morning, unhurried Hana.",
-      "meta": "Oahu + Maui + Hawaiʻi (Big Island) · dummy package, not bookable"
+      "tag": "Meaning",
+      "headline": "808 means more than one thing",
+      "snippet": "Islands are the spine. Area code, TR-808, folk eights — labeled FACT vs folk in Explore.",
+      "meta": "Meanings nest"
     },
     {
-      "tag": "14 days",
-      "headline": "Grand Tour — add Kauaʻi",
-      "snippet": "Four islands, slow. Waimea Canyon and a Nāpali lookout — not a fake boat we cannot run.",
-      "meta": "Oahu + Maui + Hawaiʻi + Kauaʻi · dummy package, not bookable"
+      "tag": "Trust",
+      "headline": "Local, not brochure",
+      "snippet": "Not a booking engine. Not a package board. Not a must-do carousel.",
+      "meta": "Anti-tourism"
     }
   ],
   "places": [
