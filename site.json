@@ -463,7 +463,13 @@
     "overlay": {
       "enabled": true,
       "ms": 7000,
-      "headline": "Trades, breezy — NWS HFO"
+      "headline": "Trades + soft midweek TD-15-E — NWS HFO",
+      "links": [
+        {
+          "label": "NWS Honolulu",
+          "url": "https://www.weather.gov/hfo/"
+        }
+      ]
     }
   }
 }
