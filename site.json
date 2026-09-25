@@ -169,7 +169,7 @@
       "id": "steward-1",
       "name": "Fri Oʻahu card",
       "handle": "oahu_fact",
-      "text": "FACT: Honolulu grid (NWS HFO): Friday mostly cloudy with isolated showers, high near 86°F, ENE trades 21–28 mph with gusts as high as 40 mph; precip chance ~20%. https://www.weather.gov/hfo/ Gusts rattling your side?",
+      "text": "Honolulu grid (NWS HFO): Friday mostly cloudy with isolated showers, high near 86°F, ENE trades 21–28 mph with gusts as high as 40 mph. Chance of precip ~20%. https://www.weather.gov/hfo/\nOne line: gusts already rattling your side, or still just the steady trade?",
       "hours": 1,
       "likes": 0,
       "replies": 0,
@@ -179,7 +179,7 @@
       "id": "steward-2",
       "name": "Hurricane Nolo products",
       "handle": "nolo_products",
-      "text": "FACT: NWS Honolulu lists Hurricane Nolo products: Tropical Storm Warning + Hurricane Watch for Big Island zones, Tropical Storm Watch for Maui County zones. Official hubs: https://www.weather.gov/hfo/ https://www.hurricanes.gov/ Which product is up for your zone?",
+      "text": "Nolo update (NWS Honolulu Advisory 20, 4:59 AM HST Fri): Tropical Storm Warning + Hurricane Watch remain for Kona zones (Kailua-Kona, Captain Cook, Milolii). Other islands: check your own product on the official board — don’t argue from a screenshot. https://www.weather.gov/hfo/ and https://www.hurricanes.gov/\nWhich island are you on — and which product is actually up for your zone?",
       "hours": 2,
       "likes": 0,
       "replies": 0,
@@ -189,7 +189,7 @@
       "id": "steward-3",
       "name": "High Surf Advisory",
       "handle": "highsurf808",
-      "text": "FACT: High Surf Advisory remains for east-facing Molokai and Maui and east/southeast Big Island shores through Sat 6 PM HST. https://www.weather.gov/hfo/ East shore plans: stay out or watch from higher ground?",
+      "text": "High Surf Advisory remains for east and southeast facing shores of Big Island, Maui, and Molokai through Sat 6 PM HST. https://www.weather.gov/hfo/\nEast/southeast shore plans this weekend: staying out, or watching from higher ground only?",
       "hours": 3,
       "likes": 0,
       "replies": 0,
@@ -199,7 +199,7 @@
       "id": "steward-4",
       "name": "Weekend look",
       "handle": "weekend808",
-      "text": "FACT: Honolulu grid: Saturday scattered showers (~40%), high near 86, ENE ~20 mph; Sunday isolated showers then partly sunny, high near 86. https://www.weather.gov/hfo/ Wetter pocket on your side?",
+      "text": "Honolulu grid: Saturday scattered showers (~40%), high near 86, ENE ~20 mph; Sunday isolated showers then partly sunny, high near 86. https://www.weather.gov/hfo/\nSaturday wetter pocket on your side, or still leeward-dry?",
       "hours": 4,
       "likes": 0,
       "replies": 0,
@@ -209,7 +209,7 @@
       "id": "steward-5",
       "name": "Legislature Live",
       "handle": "hawaii_live",
-      "text": "FACT: Hawaiʻi State Legislature live/on-demand hub is outbound only; we don’t re-stream. https://www.capitol.hawaii.gov/livevideo.aspx Tuning a hearing or bookmarking?",
+      "text": "Hawaiʻi State Legislature live/on-demand hub — outbound only, we don’t re-stream. https://www.capitol.hawaii.gov/livevideo.aspx\nAnyone actually tuning a hearing this week, or bookmarking for later?",
       "hours": 5,
       "likes": 0,
       "replies": 0,
@@ -219,7 +219,7 @@
       "id": "steward-6",
       "name": "NWS HFO board",
       "handle": "nws_hfo",
-      "text": "FACT: Honolulu Forecast Office home is the Room Brief source family. https://www.weather.gov/hfo/ Bookmark before the next Nolo update — don’t argue off a screenshot.",
+      "text": "Honolulu Forecast Office home (same source family as the Room Brief rail): https://www.weather.gov/hfo/\nBookmark before the next Nolo update — don’t argue off a screenshot.",
       "hours": 6,
       "likes": 0,
       "replies": 0,
@@ -255,7 +255,7 @@
       "messages": [
         {
           "me": false,
-          "text": "Nolo products differ by island: Big Island warning/watch, Maui County watch, quieter Oʻahu card. What’s live for your zone and what are you prepping for tonight?"
+          "text": "Nolo products differ by island (Big Island warning/watch vs Maui County watch vs quieter Oʻahu card). What’s live for your zone right now — and what are you prepping for tonight?"
         },
         {
           "me": true,
@@ -271,7 +271,7 @@
       "messages": [
         {
           "me": false,
-          "text": "Advisory-level east/southeast surf through Sat evening. Are you treating the advisory as real, or shrugging until you see the sets?"
+          "text": "Advisory-level east/southeast surf through Sat evening. Honest check: are you treating the advisory as real, or shrugging it until you see the sets?"
         },
         {
           "me": true,
