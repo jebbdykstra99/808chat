@@ -470,6 +470,23 @@
           "url": "https://www.weather.gov/hfo/"
         }
       ]
-    }
+    },
+    "outbound": [
+      {
+        "tag": "Board",
+        "headline": "NWS HFO",
+        "url": "https://www.weather.gov/hfo/",
+        "snippet": "Official NWS Honolulu Forecast Office (same HFO source family as Room Brief).",
+        "meta": "Official · board"
+      },
+      {
+        "tag": "Watch",
+        "headline": "Hawaiʻi Legislature Live",
+        "url": "https://www.capitol.hawaii.gov/livevideo.aspx",
+        "snippet": "Hawaiʻi State Legislature official live/on-demand video hub. Outbound only — no in-app re-stream.",
+        "meta": "Official · link-out"
+      }
+    ],
+    "maxCards": 4
   }
 }
