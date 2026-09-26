@@ -435,6 +435,88 @@
     ],
     "notes": "Factory followable topics (StockTwits-style). Users keep/unfollow/add on their watchlist."
   },
+  "nests": [
+    {
+      "slug": "oahu",
+      "label": "Oʻahu",
+      "kind": "island",
+      "parent": null,
+      "blurb": "Island dial tone — Oʻahu hub. FACT over tourism.",
+      "nav": true
+    },
+    {
+      "slug": "maui",
+      "label": "Maui",
+      "kind": "island",
+      "parent": null,
+      "blurb": "Maui hub talk. Anti-tourism framing.",
+      "nav": true
+    },
+    {
+      "slug": "kauai",
+      "label": "Kauaʻi",
+      "kind": "island",
+      "parent": null,
+      "blurb": "Kauaʻi hub. Local first.",
+      "nav": true
+    },
+    {
+      "slug": "big-island",
+      "label": "Big Island",
+      "kind": "island",
+      "parent": null,
+      "blurb": "Hawaiʻi Island hub.",
+      "nav": true
+    },
+    {
+      "slug": "breaks",
+      "label": "Breaks",
+      "kind": "theme",
+      "parent": null,
+      "blurb": "Surf/break talk — links not streams.",
+      "nav": true
+    },
+    {
+      "slug": "talk-story",
+      "label": "Talk story",
+      "kind": "theme",
+      "parent": null,
+      "blurb": "Porch talk. Keep it local.",
+      "nav": true
+    },
+    {
+      "slug": "area-code-808",
+      "label": "Area code 808",
+      "kind": "meaning",
+      "parent": null,
+      "blurb": "NANP HI FACT — cite before folk.",
+      "nav": true
+    },
+    {
+      "slug": "angel-number-808",
+      "label": "Angel number 808",
+      "kind": "meaning",
+      "parent": null,
+      "blurb": "Folk only — label as folk, never wealth prophecy.",
+      "nav": true
+    },
+    {
+      "slug": "tr-808",
+      "label": "The 808 (TR-808)",
+      "kind": "meaning",
+      "parent": null,
+      "blurb": "Drum machine culture — FACT.",
+      "nav": true
+    },
+    {
+      "slug": "lucky-8",
+      "label": "Lucky 8",
+      "kind": "meaning",
+      "parent": null,
+      "blurb": "Folk 发 / lucky 8 — label folk.",
+      "nav": true
+    }
+  ],
   "v": 1,
   "cacheBust": 1
 }
