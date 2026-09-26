@@ -329,5 +329,112 @@
       }
     ],
     "maxCards": 4
-  }
+  },
+  "taxonomy": {
+    "version": 1,
+    "name": "Hawaiʻi",
+    "symbolPrefix": "$",
+    "topics": [
+      {
+        "id": "oahu",
+        "label": "Oʻahu",
+        "kind": "city",
+        "blurb": "Island",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "maui",
+        "label": "Maui",
+        "kind": "city",
+        "blurb": "Island",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "hawaii-island",
+        "label": "Hawaiʻi Island",
+        "kind": "city",
+        "blurb": "Big Island",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "kauai",
+        "label": "Kauaʻi",
+        "kind": "city",
+        "blurb": "Island",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "honolulu",
+        "label": "Honolulu",
+        "kind": "city",
+        "blurb": "Town",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "local-food",
+        "label": "Local food",
+        "kind": "theme",
+        "blurb": "Grindz",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "surf",
+        "label": "Surf & ocean",
+        "kind": "theme",
+        "blurb": "Ocean conditions talk",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "housing",
+        "label": "Housing",
+        "kind": "theme",
+        "blurb": "Local housing",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "culture",
+        "label": "Culture & language",
+        "kind": "theme",
+        "blurb": "Respectful local",
+        "followDefault": true,
+        "adminSeed": true,
+        "status": "active"
+      },
+      {
+        "id": "travel",
+        "label": "Getting around",
+        "kind": "theme",
+        "blurb": "Not a vacation package dump",
+        "followDefault": false,
+        "adminSeed": true,
+        "status": "active"
+      }
+    ],
+    "defaultWatchlist": [
+      "oahu",
+      "maui",
+      "honolulu",
+      "local-food",
+      "culture"
+    ],
+    "notes": "Factory followable topics (StockTwits-style). Users keep/unfollow/add on their watchlist."
+  },
+  "v": 1,
+  "cacheBust": 1
 }
