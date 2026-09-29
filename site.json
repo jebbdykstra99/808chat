@@ -1,5 +1,6 @@
 {
   "siteId": "808chat",
+  "dms": true,
   "redditSr": "808chat",
   "name": "808chat",
   "tagline": "All things Hawaii. Local, not brochure.",
