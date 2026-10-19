@@ -1,7 +1,6 @@
 {
   "siteId": "808chat",
   "dms": true,
-  "redditSr": "808chat",
   "name": "808chat",
   "tagline": "All things Hawaii. Local, not brochure.",
   "composePlaceholder": "What's happening in the 808?",
@@ -519,5 +518,12 @@
     }
   ],
   "v": 1,
-  "cacheBust": 1
+  "cacheBust": 1,
+  "pixel": false,
+  "redditCrosspost": false,
+  "features": {
+    "following": true,
+    "notifs": true
+  },
+  "minAge": 18
 }
