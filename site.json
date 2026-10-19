@@ -524,5 +524,6 @@
   "features": {
     "following": true,
     "notifs": true
-  }
+  },
+  "minAge": 18
 }
