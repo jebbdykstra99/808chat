@@ -175,7 +175,7 @@
     "forecastUrl": "https://api.weather.gov/gridpoints/HFO/154,145/forecast",
     "forecastPage": "https://forecast.weather.gov/MapClick.php?lat=21.3069&lon=-157.8583",
     "zone": "HIZ033",
-    "userAgent": "808chat.com/rail (jebb@subx.it)",
+    "userAgent": "808chat.com/rail (takedown@subx.it)",
     "porch": {
       "prompt": "What product is live for your island zone?",
       "options": [
