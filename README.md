@@ -27,4 +27,4 @@ Until DNS is pointed, Pages will serve on the github.io URL only if the repo is 
 - Ranking chrome (For You / Following / Hot / New) slices the social feed. Packages stay easy to find via `#packages`, the home strip, and the right rail.
 - **Dummy packages. Hotels and airfare not bookable yet.** Suggested itineraries for 3, 5, 7, 10, and 14 days. This is a catalog, **not a booking engine**. Dummy fares. Dummy hotel class descriptions (no live inventory, no real hotel brand names).
 - Sign-in modal closes (X, Escape, overlay click); auth is stubbed locally. No Firebase project keys.
-- No AskAI. No live booking. No cross-post to X or Reddit. We are not X.com.
+- No AskAI. No live booking. No cross-post to X or Reddit. SubX is not X.com.
