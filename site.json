@@ -35,26 +35,26 @@
     {
       "tag": "FACT",
       "headline": "NWS Honolulu",
-      "snippet": "Weather and marine from the official desk — not vibes dressed as fact.",
+      "snippet": "Weather and marine from the official desk, not vibes dressed as fact.",
       "meta": "weather.gov · outbound",
       "href": "https://www.weather.gov/hfo/"
     },
     {
       "tag": "Local",
       "headline": "Trades vs Kona",
-      "snippet": "When the wind flips your week — talk what’s true on your side of the island.",
+      "snippet": "When the wind flips your week, talk what’s true on your side of the island.",
       "meta": "Talk story"
     },
     {
       "tag": "Ocean",
       "headline": "Breaks, not camps",
-      "snippet": "Swell and which side is working — steward notes lean NWS marine. Not a surf-camp pitch.",
+      "snippet": "Swell and which side is working: steward notes lean NWS marine. Not a surf-camp pitch.",
       "meta": "Breaks"
     },
     {
       "tag": "Meaning",
       "headline": "808 means more than one thing",
-      "snippet": "Islands are the spine. Area code, TR-808, folk eights — labeled FACT vs folk in Explore.",
+      "snippet": "Islands are the spine. Area code, TR-808, folk eights: labeled FACT vs folk in Explore.",
       "meta": "Meanings nest"
     },
     {
@@ -73,7 +73,7 @@
     {
       "tag": "Hub",
       "title": "Maui hub",
-      "snippet": "Valley Isle talk — work, water, roads, what’s real on your side. Skip the resort map."
+      "snippet": "Valley Isle talk: work, water, roads, what’s real on your side. Skip the resort map."
     },
     {
       "tag": "Hub",
@@ -98,12 +98,12 @@
     {
       "tag": "FACT",
       "title": "Area code 808",
-      "snippet": "The number that dials the islands. NANP code for all Hawaiian Islands (and Wake). Assigned August 8, 1957 — 8/8 — two years before statehood; never split, never overlaid. Ten-digit dialing since Oct 24, 2021 (988 lifeline conflict). Identity mark, not a vacation code."
+      "snippet": "The number that dials the islands. NANP code for all Hawaiian Islands (and Wake). Assigned August 8, 1957, 8/8, two years before statehood; never split, never overlaid. Ten-digit dialing since Oct 24, 2021 (988 lifeline conflict). Identity mark, not a vacation code."
     },
     {
       "tag": "folk",
       "title": "Angel number 808",
-      "snippet": "Abundance, manifestation, infinite cycles — how people read the digits in numerology circles. Belief talk, not weather FACT. No money promises; no scraped blog essays."
+      "snippet": "Abundance, manifestation, infinite cycles: how people read the digits in numerology circles. Belief talk, not weather FACT. No money promises; no scraped blog essays."
     },
     {
       "tag": "FACT+folk",
@@ -113,24 +113,24 @@
     {
       "tag": "folk",
       "title": "Lucky 8 / 发",
-      "snippet": "In Chinese folk numerology, 八 (bā) sounds like 发 (fā) — prosper. Eights show up on phones, plates, wedding dates. 吉利 talk and language notes — not investment advice."
+      "snippet": "In Chinese folk numerology, 八 (bā) sounds like 发 (fā): prosper. Eights show up on phones, plates, wedding dates. 吉利 talk and language notes, not investment advice."
     },
     {
       "tag": "FACT",
       "title": "The 808 (TR-808)",
-      "snippet": "Roland TR-808 Rhythm Composer (1980). Commercial flop, then the kick behind electro, hip-hop, house, trap. Machines, kicks, producers — not a merch drop."
+      "snippet": "Roland TR-808 Rhythm Composer (1980). Commercial flop, then the kick behind electro, hip-hop, house, trap. Machines, kicks, producers: not a merch drop."
     },
     {
       "tag": "symbol",
       "title": "∞ Infinity lounge",
-      "snippet": "Digit 8 rotated = infinity. Cycles, loops, “what never ends” — bridge seat for angel-number, music, and math nerds without owning any one creed."
+      "snippet": "Digit 8 rotated = infinity. Cycles, loops, “what never ends”: bridge seat for angel-number, music, and math nerds without owning any one creed."
     }
   ],
   "topics": [
     {
       "tag": "Food",
       "title": "Plate lunch",
-      "snippet": "Local plate talk — not a tourist checklist."
+      "snippet": "Local plate talk, not a tourist checklist."
     },
     {
       "tag": "Food",
@@ -140,7 +140,7 @@
     {
       "tag": "Ocean",
       "title": "Trade winds",
-      "snippet": "When the trades rattle the windows — NWS HFO when we brief."
+      "snippet": "When the trades rattle the windows, NWS HFO when we brief."
     },
     {
       "tag": "Ocean",
@@ -188,7 +188,7 @@
     "overlay": {
       "enabled": true,
       "ms": 7000,
-      "headline": "Honolulu: ENE trades 21–28 mph, gusts up to 40 mph — NWS HFO (Fri FACT)",
+      "headline": "Honolulu: ENE trades 21 to 28 mph, gusts up to 40 mph. NWS HFO (Fri FACT)",
       "links": [
         {
           "label": "NWS Honolulu",
@@ -208,7 +208,7 @@
         "tag": "Watch",
         "headline": "Hawaiʻi Legislature Live",
         "url": "https://www.capitol.hawaii.gov/livevideo.aspx",
-        "snippet": "Hawaiʻi State Legislature official live/on-demand video hub. Outbound only — no in-app re-stream.",
+        "snippet": "Hawaiʻi State Legislature official live/on-demand video hub. Outbound only, no in-app re-stream.",
         "meta": "Official · link-out"
       }
     ],
@@ -325,7 +325,7 @@
       "label": "Oʻahu",
       "kind": "island",
       "parent": null,
-      "blurb": "Island dial tone — Oʻahu hub. FACT over tourism.",
+      "blurb": "Island dial tone: Oʻahu hub. FACT over tourism.",
       "nav": true
     },
     {
@@ -357,7 +357,7 @@
       "label": "Breaks",
       "kind": "theme",
       "parent": null,
-      "blurb": "Surf/break talk — links not streams.",
+      "blurb": "Surf/break talk: links not streams.",
       "nav": true
     },
     {
@@ -373,7 +373,7 @@
       "label": "Area code 808",
       "kind": "meaning",
       "parent": null,
-      "blurb": "NANP HI FACT — cite before folk.",
+      "blurb": "NANP HI FACT: cite before folk.",
       "nav": true
     },
     {
@@ -381,7 +381,7 @@
       "label": "Angel number 808",
       "kind": "meaning",
       "parent": null,
-      "blurb": "Folk only — label as folk, never wealth prophecy.",
+      "blurb": "Folk only: label as folk, never wealth prophecy.",
       "nav": true
     },
     {
@@ -389,7 +389,7 @@
       "label": "The 808 (TR-808)",
       "kind": "meaning",
       "parent": null,
-      "blurb": "Drum machine culture — FACT.",
+      "blurb": "Drum machine culture: FACT.",
       "nav": true
     },
     {
@@ -397,7 +397,7 @@
       "label": "Lucky 8",
       "kind": "meaning",
       "parent": null,
-      "blurb": "Folk 发 / lucky 8 — label folk.",
+      "blurb": "Folk 发 / lucky 8: label folk.",
       "nav": true
     }
   ],
