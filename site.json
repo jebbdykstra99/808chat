@@ -164,6 +164,27 @@
     "maxBytes": 8000000
   },
   "seedNote": "STEWARD_REFRESH Fri 2026-09-25 · NWS HFO/Legislature Live · no second windward/leeward fight",
+  "featured": {
+    "featuredDays": 3,
+    "maxPinned": 3,
+    "articleMinChars": 600,
+    "label": "Our articles",
+    "handles": [
+      "talkstory808",
+      "leewarddry",
+      "localnotbrochure",
+      "leglive",
+      "windwardwatch",
+      "surfadvisory",
+      "islandproduct",
+      "nolodesk",
+      "tradewind",
+      "hforail",
+      "localnotbrochur",
+      "meaningsfact",
+      "tr808seat"
+    ]
+  },
   "rail": {
     "kind": "nws-forecast",
     "title": "Room Brief",
