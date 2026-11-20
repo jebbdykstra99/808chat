@@ -422,8 +422,8 @@
       "nav": true
     }
   ],
-  "v": 1,
-  "cacheBust": 1,
+  "v": 2,
+  "cacheBust": 2,
   "pixel": false,
   "redditCrosspost": false,
   "features": {
@@ -431,5 +431,66 @@
     "notifs": true
   },
   "minAge": 18,
-  "accountsOpen": true
+  "accountsOpen": true,
+  "heroImages": {
+    "interval": 7000,
+    "backsplash": "#0b3d4a",
+    "scrim": "linear-gradient(180deg, rgba(11,61,74,.06) 0%, rgba(11,61,74,.04) 45%, rgba(11,61,74,.16) 75%, rgba(8,42,51,.34) 100%)",
+    "items": [
+      {
+        "id": "hi01",
+        "src": "/assets/hero/hi01-napali-coast-1200.webp",
+        "srcSm": "/assets/hero/hi01-napali-coast-600.webp",
+        "fallback": "/assets/hero/hi01-napali-coast-1200.jpg",
+        "w": 1200,
+        "h": 800,
+        "focal": "50% 38%",
+        "crop": "card-cover",
+        "alt": "The fluted green cliffs of the Nā Pali Coast on Kauaʻi rising above a narrow beach and turquoise water.",
+        "credit": "dronepicr",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Na_Pali_Coast_Kauai_Hawaii_(32406276598).jpg",
+        "modified": "cropped",
+        "review_status": "approved",
+        "reviewed": "2026-11-20"
+      },
+      {
+        "id": "hi02",
+        "src": "/assets/hero/hi02-haleakala-dawn-1200.webp",
+        "srcSm": "/assets/hero/hi02-haleakala-dawn-600.webp",
+        "fallback": "/assets/hero/hi02-haleakala-dawn-1200.jpg",
+        "w": 1200,
+        "h": 800,
+        "focal": "45% 35%",
+        "crop": "card-cover",
+        "alt": "Early morning light across the crater of Haleakalā on Maui, with red cinder slopes in the foreground and clouds on the horizon.",
+        "credit": "ImagePerson",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dawn_on_Haleakala_Volcano,_Hawaii.jpg",
+        "modified": "cropped",
+        "review_status": "approved",
+        "reviewed": "2026-11-20"
+      },
+      {
+        "id": "hi03",
+        "src": "/assets/hero/hi03-diamond-head-1200.webp",
+        "srcSm": "/assets/hero/hi03-diamond-head-600.webp",
+        "fallback": "/assets/hero/hi03-diamond-head-1200.jpg",
+        "w": 1200,
+        "h": 800,
+        "focal": "50% 50%",
+        "crop": "card-cover",
+        "alt": "Aerial view of Diamond Head crater on Oʻahu, with Honolulu neighborhoods behind it and surf breaking along the reef.",
+        "credit": "Eric Tessmer",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diamond_Head_Hawaii_-_panoramio.jpg",
+        "modified": "cropped",
+        "review_status": "approved",
+        "reviewed": "2026-11-20"
+      }
+    ]
+  }
 }
