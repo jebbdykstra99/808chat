@@ -8,8 +8,8 @@ on:
 permissions: { contents: read }
 jobs:
   check:
-    uses: jebbdykstra99/subx-factory/.github/workflows/room-static-check.yml@7951a03247f73e259d50854b4f0f099af30655d8
+    uses: jebbdykstra99/subx-factory/.github/workflows/room-static-check.yml@09ab8b46365151c290fd335702dee5578b00ddae
     with:
       expect_indexable: true
       fail_on_stale: false
-      factory_ref: 7951a03247f73e259d50854b4f0f099af30655d8
+      factory_ref: 09ab8b46365151c290fd335702dee5578b00ddae
