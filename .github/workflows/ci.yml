@@ -1,0 +1,15 @@
+name: ci
+# Thin caller of the shared static-room check in subx-factory.
+# Pinned to a factory SHA, not @main. No secrets. No paid services.
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions: { contents: read }
+jobs:
+  check:
+    uses: jebbdykstra99/subx-factory/.github/workflows/room-static-check.yml@09ab8b46365151c290fd335702dee5578b00ddae
+    with:
+      expect_indexable: true
+      fail_on_stale: false
+      factory_ref: 09ab8b46365151c290fd335702dee5578b00ddae
