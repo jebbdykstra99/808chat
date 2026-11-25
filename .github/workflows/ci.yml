@@ -1,6 +1,8 @@
 name: ci
 # Thin caller of the shared static-room check in subx-factory.
 # Pinned to a factory SHA, not @main. No secrets. No paid services.
+# After the factory checkout-fix PR merges, repin uses: and factory_ref
+# to that merge SHA.
 on:
   pull_request:
   push:
@@ -8,7 +10,8 @@ on:
 permissions: { contents: read }
 jobs:
   check:
-    uses: jebbdykstra99/subx-factory/.github/workflows/room-static-check.yml@07e5451359805e6b53bdeb081cc6cadfd1e5bc57
+    uses: jebbdykstra99/subx-factory/.github/workflows/room-static-check.yml@22223183f4aeb4549acddb5c45181af9c056905e
     with:
       expect_indexable: true
       fail_on_stale: false
+      factory_ref: 22223183f4aeb4549acddb5c45181af9c056905e
